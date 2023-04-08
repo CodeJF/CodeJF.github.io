@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID":"N48829935C.com.cn.naraTech.GoldUncle",
+                "paths": [ "/app/*"]
+            }
+        ]
+    }
+}
